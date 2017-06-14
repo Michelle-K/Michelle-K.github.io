@@ -1,0 +1,74 @@
+/*
+* {
+	border: 1px solid black;
+}
+*/
+
+body{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	padding: 0;
+	margin; 0;
+	color: #333;
+	line-height: 150%;
+	background:#efeee7;
+
+}
+
+header {
+	background-color: black;
+	
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	padding: 20px 0;
+	margin 0;
+	margin-bottom: 20px;
+	font-size: 28px;
+
+}
+
+.container{
+	width: 1024px;
+	margin: 0 auto;
+}
+
+#namePhoto {
+	float: left;
+  margin: 20px 1.5%;
+  width: 30%;
+  text-align: center;
+}
+
+#aboutMe {
+	float: left;
+  margin: 20px 1.5%;
+  width: 30%;
+  padding-top: 20px;
+}
+#contact{
+	float: left;
+  margin: 20px 1.5%;
+  width: 30%;
+}
+
+/*
+#namePhoto, #aboutMe, #contact {
+	float: left;
+}
+
+#aboutme{
+	width: 70%;
+}
+
+#contact{
+	width: 30%;
+}
+
+#namePhoto{
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+}*/
